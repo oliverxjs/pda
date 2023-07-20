@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    margin-top: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+
+#bio {
+    font-size: 18px;
+}
+
+#habilidades ul {
+    font-style: italic;
+}
+
+#atividades img {
+    width: 600px;
+    height: auto;
+    margin: 10px;
+    border-radius: 5px;
+}
